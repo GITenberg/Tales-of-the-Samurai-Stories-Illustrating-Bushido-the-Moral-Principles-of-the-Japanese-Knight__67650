@@ -1,0 +1,40 @@
+_repo: Tales-of-the-Samurai-Stories-Illustrating-Bushido-the-Moral-Principles-of-the-Japanese-Knight__67650
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miyamori, Asataro
+    alias: 宮森麻太郎
+    birthdate: 1869
+    deathdate: 1952
+    gutenberg_agent_id: '54376'
+    url: http://www.gutenberg.org/2009/agents/54376
+description: ''
+gutenberg_issued: '2022-03-18'
+identifiers:
+  gutenberg: '67650'
+  lccn: ltf91050387
+language: en
+pgterms:marc904: https://archive.org/details/talesofsamuraist00miya
+pgterms:marc905: 20220209182925miyamori
+pgterms:marc906: '1920'
+pgterms:marc907: JP
+production_note: Ronald Grenier (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: Japan :Kyō-bun-kwan,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Japanese fiction -- Translations into English'
+- !lcsh 'Bushido -- Fiction'
+- !lcsh 'Japan -- Fiction'
+- !lcsh 'Samurai -- Fiction'
+- !lcsh 'Short stories, Japanese -- Translations into English'
+- GITenberg
+tableOfContents: Ungo-Zenji -- The loyalty of a boy samurai -- Katsuno's revenge --
+  A wedding present -- The heroism of Torii Katsutaka -- The wrestling of a daimio
+  -- The story of Kimura Shigenari -- Honest Kyūsuké.
+title: "Tales of the Samurai\r\nStories Illustrating Bushido, the Moral Principles\
+  \ of the Japanese Knighthood"
+url: http://www.gutenberg.org/ebooks/67650

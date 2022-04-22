@@ -1,5 +1,8 @@
 _repo: Tales-of-the-Samurai-Stories-Illustrating-Bushido-the-Moral-Principles-of-the-Japanese-Knight__67650
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67650-h/images/cover.jpg
 creator:
   author:
     agent_name: Miyamori, Asataro
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54376'
     url: http://www.gutenberg.org/2009/agents/54376
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67650#Tales-of-the-Samurai-Stories-Illustrating-Bushido-the-Moral-Principles-of-the-Japanese-Knight_
 gutenberg_issued: '2022-03-18'
 identifiers:
   gutenberg: '67650'
